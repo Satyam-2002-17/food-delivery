@@ -33,7 +33,7 @@ app.get("/",(req,res)=>{
 })
 
 app.listen(port,()=>{
-    console.log(`Server Started on http://localhost:${port}`)
+    console.log(`Server Started on Render.`)
 })
 
 //mongodb+srv://user:Satyam_123@cluster0.uyxdq3e.mongodb.net/?
